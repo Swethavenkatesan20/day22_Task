@@ -47,7 +47,7 @@ export const PriceCard = () => {
     <div className='border'>
         <h6 className='colorg center'>pro</h6>
 
-            <h2>0$ per month</h2>
+            <h2>49$ per month</h2>
             <hr />
             <h6 className='colorb'><i class="fa-solid fa-check"></i> single user</h6>
             <h6 className='colorb'><i class="fa-solid fa-check"></i> 50GB storage</h6>
